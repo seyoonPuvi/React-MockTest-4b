@@ -1,0 +1,11 @@
+.header-cont {
+  padding: 2rem 4rem;
+  background-color: aliceblue;
+}
+
+.header-img {
+  height: 5rem;
+  width: 10rem;
+  object-fit: contain;
+  object-position: center;
+}

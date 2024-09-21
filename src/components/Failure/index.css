@@ -1,0 +1,21 @@
+.failure-cont {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  row-gap: 2rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.failure-img {
+  height: 20rem;
+  width: 40rem;
+  object-fit: contain;
+  object-position: center;
+}
+
+.retryBtn {
+  background-color: steelblue;
+  color: white;
+  padding: 2rem 2rem;
+}
